@@ -5,7 +5,7 @@ I am `Chris-Armel Iradukunda` a.k.a. `daqhris`
 _about + bio_ : [daqhris.com/about](https://daqhris.com/about)     
 
 **Base Batch #001**  
-_Devfolio - Europe 2025_: [https://devfolio.co/projects/mission-enrollment-b9f4](https://devfolio.co/projects/mission-enrollment-b9f4)
+_Devfolio - Europe 2025_: [devfolio.co/projects/mission-enrollment-b9f4](https://devfolio.co/projects/mission-enrollment-b9f4)
 
 **ETHGlobal 2024**  
 _Brussels_: [ethglobal.com/showcase/zinnekerescuemission-9fwjf](https://ethglobal.com/showcase/zinnekerescuemission-9fwjf)  
