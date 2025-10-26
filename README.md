@@ -14,4 +14,4 @@ _Superhack_: [ethglobal.com/showcase/missionenrollment-i4fkr](https://ethglobal.
 **Open-Sourced Writings**  
 _Commit awalkaday to Memory_: [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)  
 _Twofold Alienated_: [github.com/daqhris/twofold-alienated](https://github.com/daqhris/twofold-alienated)  
-_God Bless USA_: [github.com/daqhris/god-bless-usa](https://github.com/daqhris/god-bless-usa)  
+_God Bless United States of Aliens_: [github.com/daqhris/god-bless-usa](https://github.com/daqhris/god-bless-usa)  
