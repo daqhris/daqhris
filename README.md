@@ -12,6 +12,6 @@ _Brussels_: [ethglobal.com/showcase/zinnekerescuemission-9fwjf](https://ethgloba
 _Superhack_: [ethglobal.com/showcase/missionenrollment-i4fkr](https://ethglobal.com/showcase/missionenrollment-i4fkr)  
 
 **Open-Sourced Writings**  
-_Walking Memories_: [github.com/awalkaday/about-awalkaday-art/tree/book](https://github.com/awalkaday/about-awalkaday-art/tree/book)  
+_Walking Memories_: [github.com/awalkaday/about-awalkaday-art](https://github.com/awalkaday/about-awalkaday-art/tree/book)  
 _Twofold Alienated_: [github.com/daqhris/twofold-alienated](https://github.com/daqhris/twofold-alienated)  
-_God Bless United States of Aliens_: [github.com/daqhris/god-bless-usa](https://github.com/daqhris/god-bless-usa)  
+_God Bless The United States of Aliens_: [github.com/daqhris/god-bless-usa](https://github.com/daqhris/god-bless-usa)  
